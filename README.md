@@ -2,7 +2,7 @@
 - 👀 I’m interested in Time Series Databases and Processing Systems.
 - 🌱 I’m currently learning Azure, Rust and DSL Generators.
 - 💞️ I’m looking to collaborate on RetractorDB Project http://retractordb.com
-- 📫 How to reach me - try http://widera.com.pl
+- 📫 How to reach me - try http://widera.com.pl - email michal@ this domain.
 
 <!---
 michalwidera/michalwidera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
