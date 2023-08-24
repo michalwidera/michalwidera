@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @michalwidera
 - 👀 I’m interested in Time Series Databases and Processing Systems.
-- 🌱 I’m currently learning Azure, Rust and DSL Generators.
-- 💞️ I’m looking to collaborate on RetractorDB Project http://retractordb.com
+- 🌱 I’m currently exploring Azure, Rust and DSL Generators.
+- 💞️ I’m looking to collaborate on [RetractorDB](https://github.com/michalwidera/retractordb) Project http://retractordb.com
 - 📫 How to reach me - try http://widera.com.pl - email michal@ this domain.
+- :construction_worker: My main project on Github is [RetractorDB](https://github.com/michalwidera/retractordb)
 
 <!---
 michalwidera/michalwidera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
